@@ -36,7 +36,25 @@ My name is **Kaleesi**; I am a **6th-grade student and part of the Champ communi
   <img src="https://docs.cyderes.cloud/img/vercel.png"    alt="Vercel" width="30" height="30" style="object-fit: contain; margin-right: 12px; vertical-align: middle;" />
 </p>
 
+
+ ### 🛠️ Technologies & Hardware
+
+<div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
+  <!-- Languages -->
+  <img src="https://wikimedia.org" alt="Python" height="28" style="object-fit: contain;" />
+  <img src="https://wikimedia.org" alt="JavaScript" height="28" style="object-fit: contain;" />
+  <img src="https://wikimedia.org" alt="ROS" height="28" style="object-fit: contain;" />
  
+  <!-- Hardware -->
+  <img src="https://wikimedia.org" alt="Arduino" height="28" style="object-fit: contain;" />
+  <img src="https://wikimedia.org" alt="micro:bit" height="28" style="object-fit: contain;" />
+  
+  <!-- Platforms -->
+  <img src="https://i.extremetech.com/imagery/content-types/00ZTdioKuRFKHIEMNw8NtDb/hero-image.fit_lim.size_1600x900.v1678673053.jpg" alt="Linux" height="28" style="object-fit: contain;" />
+  <img src="https://docs.cyderes.cloud/img/vercel.png"  alt="Vercel" height="28" style="object-fit: contain;" />
+</div>
+
+
 ---
 
 ### 📊 My Live Stats
