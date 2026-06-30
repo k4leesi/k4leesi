@@ -1,51 +1,52 @@
-# 👋 ¡Hola! Soy Kali (k4leesi) 🚀
+# 👋 Hi there! I'm Kali (k4leesi) 🚀
 
-Estoy construyendo mi camino en la ciencia y la tecnología. Soy orgullosamente **Becaria de Perú Champs** y he completado programas de especialización tecnológica en la **Universidad Nacional de Ingeniería (UNI)**. Mi meta es convertirme en **Neurocirujana** y **Experta Internacional en Genética**, usando la Inteligencia Artificial para transformar la medicina.
-
----
-
-### 🧬 Mis Grandes Metas y Pasiones
-* 🧠 **Neurocirugía y Genética:** Mi objetivo es entender el cerebro y los genes para salvar vidas a nivel global.
-* 📐 **Matemáticas:** Me apasiona resolver problemas lógicos y aplicarlos al desarrollo de software científico.
-* 🤖 **Hardware & Robótica:** Disfruto programar componentes físicos con **Arduino** y **micro:bit**, explorando la robótica aplicada a la salud.
+I am an 11-year-old student currently in 6th grade, building my path in science and technology. I am proudly a **Perú Champs Scholar** and have completed specialized technology programs at the **National University of Engineering (UNI)**. My long-term goal is to become a **Neurosurgeon** and an **International Expert in Genetics**, leveraging Artificial Intelligence to transform medicine.
 
 ---
 
-### 🎓 Mis Certificaciones (UNI)
-* 🛡️ **PIT451:** Ciberseguridad: Pentesting y Técnicas de Ataque (C|PTA)
-* 🎨 **PIT461:** Diseño Gráfico con Inteligencia Artificial
-* 🌐 **PIT509:** JavaScript Básico + IA
-* 🤖 **PIT526:** Programación de Robots con ROS + IA
-* 🐍 **PIT529:** Programación en Python Intermedio + IA
+### 🧬 My Big Goals & Passions
+* 🧠 **Neurosurgery & Genetics:** My ultimate mission is to understand the human brain and genetics to save lives globally.
+* 📐 **Mathematics:** I love problem-solving, logic, and applying mathematics to scientific software development.
+* 🤖 **Hardware & Robotics:** I enjoy bringing code to life by programming physical boards like **Arduino** and **micro:bit**, exploring health-tech robotics.
 
 ---
 
-### 🛠️ Tecnologías y Hardware
+### 🎓 My Certifications (UNI)
+* 🛡️ **PIT451:** Cybersecurity: Pentesting and Attack Techniques (C|PTA)
+* 🎨 **PIT461:** Graphic Design with Artificial Intelligence
+* 🌐 **PIT509:** Basic JavaScript + AI
+* 🤖 **PIT526:** Robot Programming with ROS + AI
+* 🐍 **PIT529:** Intermediate Python Programming + IA
+
+---
+
+### 🛠️ Technologies & Hardware
 
 <p align="left">
-  <!-- Lenguajes -->
+  <!-- Languages -->
   <img src="https://shields.io" alt="Python" />
   <img src="https://shields.io" alt="JavaScript" />
   <img src="https://shields.io" alt="ROS" />
   <!-- Hardware -->
   <img src="https://shields.io" alt="Arduino" />
   <img src="https://shields.io" alt="micro:bit" />
-  <!-- Plataformas -->
+  <!-- Platforms -->
   <img src="https://shields.io" alt="Linux" />
   <img src="https://shields.io" alt="Vercel" />
 </p>
 
 ---
 
-### 📊 Mis Estadísticas (¡Actualizadas en vivo!)
+### 📊 My Live Stats
 
 <p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de k4leesi" width="48%" />
-  <img src="https://vercel.app" alt="Lenguajes más usados" width="48%" />
+  <img src="https://vercel.app" alt="k4leesi's GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-### 🌐 Conéctate conmigo
-* 🏠 **Sitio Web:** [k4li.top](https://k4li.top)
-* 📧 **Contacto Seguro:** drogon@k4li.top
+### 🌐 Connect with me
+* 🏠 **Website:** [k4li.top](https://k4li.top)
+* 📧 **Secure Contact:** drogon@k4li.top
+
