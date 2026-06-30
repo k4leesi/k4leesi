@@ -37,22 +37,35 @@ My name is **Kaleesi**; I am a **6th-grade student and part of the Champ communi
 </p>
 
 
- ### 🛠️ Technologies & Hardware
-
-<div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
   <!-- Languages -->
-  <img src="https://wikimedia.org" alt="Python" height="28" style="object-fit: contain;" />
-  <img src="https://wikimedia.org" alt="JavaScript" height="28" style="object-fit: contain;" />
-  <img src="https://wikimedia.org" alt="ROS" height="28" style="object-fit: contain;" />
- 
+  <div style="width:40px; height:40px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="max-width:100%; max-height:100%; object-fit:contain;" />
+  </div>
+  <div style="width:40px; height:40px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" style="max-width:100%; max-height:100%; object-fit:contain;" />
+  </div>
+  <div style="width:40px; height:40px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://tknika.eus/wp-content/uploads/2022/10/ros.png" alt="ROS" style="max-width:100%; max-height:100%; object-fit:contain;" />
+  </div>
+
   <!-- Hardware -->
-  <img src="https://wikimedia.org" alt="Arduino" height="28" style="object-fit: contain;" />
-  <img src="https://wikimedia.org" alt="micro:bit" height="28" style="object-fit: contain;" />
-  
+  <div style="width:40px; height:40px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://www.cec.es/wp-content/uploads/2018/07/arduino.jpg" alt="Arduino" style="max-width:100%; max-height:100%; object-fit:contain;" />
+  </div>
+  <div style="width:40px; height:40px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://www.wonderkit.no/wp-content/uploads/2025/04/microbit_v2_front_dbfc5c5e-db9d-48c0-82db-29a905eb0658.jpg" alt="micro:bit" style="max-width:100%; max-height:100%; object-fit:contain;" />
+  </div>
+
   <!-- Platforms -->
-  <img src="https://i.extremetech.com/imagery/content-types/00ZTdioKuRFKHIEMNw8NtDb/hero-image.fit_lim.size_1600x900.v1678673053.jpg" alt="Linux" height="28" style="object-fit: contain;" />
-  <img src="https://docs.cyderes.cloud/img/vercel.png"  alt="Vercel" height="28" style="object-fit: contain;" />
-</div>
+  <div style="width:40px; height:40px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" style="max-width:100%; max-height:100%; object-fit:contain;" />
+  </div>
+  <div style="width:40px; height:40px; display:flex; align-items:center; justify-content:center;">
+    <img src="https://docs.cyderes.cloud/img/vercel.png" alt="Vercel" style="max-width:100%; max-height:100%; object-fit:contain;" />
+  </div>
+</p>
+
 
 
 ---
