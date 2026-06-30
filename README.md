@@ -23,7 +23,9 @@ My name is **Kaleesi**; I am a **6th-grade student and part of the Champ communi
 
 <p align="left">
   <!-- Languages -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="25" />
+
   <img src="https://shields.io" alt="JavaScript" />
   <img src="https://shields.io" alt="ROS" />
   <!-- Hardware -->
