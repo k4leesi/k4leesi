@@ -76,11 +76,17 @@ My name is **Kaleesi**; I am a **6th-grade student and part of the Champ communi
 
 ## 📊 My Live Stats
 
+## 📊 My Live Stats
+
 ### 1. k4leesi's GitHub Stats
-[![k4leesi's GitHub stats](https://github-readme-stats.vercel.app/api?username=k4leesi&show_icons=true&theme=radical)](https://github.com/k4leesi)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k4leesi&show_icons=true&theme=radical)
 
 ### 2. Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k4leesi&layout=compact&theme=radical)](https://github.com/k4leesi)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k4leesi&layout=compact&theme=radical)
+
+### 3. Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=k4leesi&theme=radical)
+
 
 
 ---
