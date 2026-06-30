@@ -46,10 +46,10 @@ My name is **Kaleesi**; I am a **6th-grade student and part of the Champ communi
   <tr>
     <!-- Platforms -->
     <td style="width:100px; height:100px; text-align:center; vertical-align:middle;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" style="max-width:100%; max-height:100%; object-fit:contain;" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux"   />
     </td>
     <td style="width:100px; height:100px; text-align:center; vertical-align:middle;">
-      <img src="https://docs.cyderes.cloud/img/vercel.png" alt="Vercel" style="max-width:100%; max-height:100%; object-fit:contain;" />
+      <img src="https://docs.cyderes.cloud/img/vercel.png" alt="Vercel"  />
     </td>
   </tr>
 </table>
