@@ -21,22 +21,6 @@ My name is **Kaleesi**; I am a **6th-grade student and part of the Champ communi
 
 ### 🛠️ Technologies & Hardware
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" height="30" style="object-fit: contain; margin-right: 12px; vertical-align: middle;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="30" height="30" style="object-fit: contain; margin-right: 12px; vertical-align: middle;" />
-  <img src="https://tknika.eus/wp-content/uploads/2022/10/ros.png"     alt="ROS" width="30" height="30" style="object-fit: contain; margin-right: 12px; vertical-align: middle;" />
- 
-  <!-- Hardware -->
-  <img src="https://www.cec.es/wp-content/uploads/2018/07/arduino.jpg"    alt="Arduino" width="30" height="30" style="object-fit: contain; margin-right: 12px; vertical-align: middle;" />
-  <img src="https://www.wonderkit.no/wp-content/uploads/2025/04/microbit_v2_front_dbfc5c5e-db9d-48c0-82db-29a905eb0658.jpg"   alt="micro:bit" width="30" height="30" style="object-fit: contain; margin-right: 12px; vertical-align: middle;" />
-  
-  <!-- Platforms -->
-  <img src="https://es.wikipedia.org/wiki/GNU/Linux#/media/Archivo:Tux.svg"   alt="Linux" width="30" height="30" style="object-fit: contain; margin-right: 12px; vertical-align: middle;" />
-  <img src="https://docs.cyderes.cloud/img/vercel.png"    alt="Vercel" width="30" height="30" style="object-fit: contain; margin-right: 12px; vertical-align: middle;" />
-</p>
-
-
 <table style="border-collapse: collapse;">
   <tr>
     <!-- Languages -->
