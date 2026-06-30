@@ -74,6 +74,15 @@ My name is **Kaleesi**; I am a **6th-grade student and part of the Champ communi
   <img src="https://vercel.app" alt="Top Languages" width="48%" />
 </p>
 
+## 📊 My Live Stats
+
+### 1. k4leesi's GitHub Stats
+[![k4leesi's GitHub stats](https://github-readme-stats.vercel.app/api?username=k4leesi&show_icons=true&theme=radical)](https://github.com/k4leesi)
+
+### 2. Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k4leesi&layout=compact&theme=radical)](https://github.com/k4leesi)
+
+
 ---
 
 ### 🌐 Connect with me
