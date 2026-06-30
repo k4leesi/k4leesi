@@ -1,13 +1,12 @@
 # 👋 Hi there! I'm Kali (k4leesi) 🚀
 
-I am an 11-year-old student currently in 6th grade, building my path in science and technology. I am proudly a **Perú Champs Scholar** and have completed specialized technology programs at the **National University of Engineering (UNI)**. My long-term goal is to become a **Neurosurgeon** and an **International Expert in Genetics**, leveraging Artificial Intelligence to transform medicine.
+My name is **Kaleesi**; I am a **6th-grade student and part of the Champ community**, currently building my path in science and technology. I have completed specialized technology programs at the **National University of Engineering (UNI)**. My long-term goal is to become an **International Expert in Genetics focusing on brain genes and biocobotics**, leveraging Artificial Intelligence to **revive extinct species and develop collaborative biological robots to conquer other planets**.
 
 ---
-
 ### 🧬 My Big Goals & Passions
-* 🧠 **Neurosurgery & Genetics:** My ultimate mission is to understand the human brain and genetics to save lives globally.
-* 📐 **Mathematics:** I love problem-solving, logic, and applying mathematics to scientific software development.
-* 🤖 **Hardware & Robotics:** I enjoy bringing code to life by programming physical boards like **Arduino** and **micro:bit**, exploring health-tech robotics.
+* 🧠 **Genetics & Biocobotics:** My ultimate mission is to master brain genes and biocobotics, leveraging Artificial Intelligence to revive extinct species and pioneer interplanetary colonization.
+* 📐 **Mathematics:** I love problem-solving, logic, and applying advanced mathematics to scientific software development for space-age technologies.
+* 🤖 **Hardware & Collaborative Robotics:** I enjoy bringing code to life by programming physical boards like **Arduino** and **micro:bit**, exploring the development of biological robots and semi-humans to conquer other planets.
 
 ---
 
