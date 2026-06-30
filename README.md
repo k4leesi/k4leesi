@@ -21,6 +21,40 @@ My name is **Kaleesi**; I am a **6th-grade student and part of the Champ communi
 
 ### 🛠️ Technologies & Hardware
 
+<table>
+  <tr>
+    <!-- Languages -->
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="100" />
+    </td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" height="100" />
+    </td>
+    <td>
+      <img src="https://tknika.eus/wp-content/uploads/2022/10/ros.png" alt="ROS" height="100" />
+    </td>
+  </tr>
+  <tr>
+    <!-- Hardware -->
+    <td>
+      <img src="https://www.cec.es/wp-content/uploads/2018/07/arduino.jpg" alt="Arduino" height="100" />
+    </td>
+    <td>
+      <img src="https://www.wonderkit.no/wp-content/uploads/2025/04/microbit_v2_front_dbfc5c5e-db9d-48c0-82db-29a905eb0658.jpg" alt="micro:bit" height="100" />
+    </td>
+  </tr>
+  <tr>
+    <!-- Platforms -->
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" height="100" />
+    </td>
+    <td>
+      <img src="https://docs.cyderes.cloud/img/vercel.png" alt="Vercel" height="100" />
+    </td>
+  </tr>
+</table>
+
+
 <table style="border-collapse: collapse;">
   <tr>
     <!-- Languages -->
