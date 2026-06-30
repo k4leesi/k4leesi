@@ -23,15 +23,14 @@ My name is **Kaleesi**; I am a **6th-grade student and part of the Champ communi
 
 <p align="left">
   <!-- Languages -->
-
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="25" />
   <img src="https://es.wikipedia.org/wiki/Archivo:Unofficial_JavaScript_logo_2.svg" width="25" alt="JavaScript" />
   <img src="https://tknika.eus/wp-content/uploads/2022/10/ros.png" width="25"   alt="ROS" />
  
   <!-- Hardware -->
   <img src="https://www.cec.es/wp-content/uploads/2018/07/arduino.jpg" width="25"  alt="Arduino" />
- 
-  <img src="https://shields.io" width="25"  alt="micro:bit" />
+  <img src="https://www.wonderkit.no/wp-content/uploads/2025/04/microbit_v2_front_dbfc5c5e-db9d-48c0-82db-29a905eb0658.jpg" width="25"  alt="micro:bit" />
+  
   <!-- Platforms -->
   <img src="https://shields.io" width="25"  alt="Linux" />
   <img src="https://shields.io" width="25"  alt="Vercel" />
