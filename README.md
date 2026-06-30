@@ -37,34 +37,38 @@ My name is **Kaleesi**; I am a **6th-grade student and part of the Champ communi
 </p>
 
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <!-- Languages -->
-  <div style="width:40px; height:40px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="max-width:100%; max-height:100%; object-fit:contain;" />
-  </div>
-  <div style="width:40px; height:40px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" style="max-width:100%; max-height:100%; object-fit:contain;" />
-  </div>
-  <div style="width:40px; height:40px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://tknika.eus/wp-content/uploads/2022/10/ros.png" alt="ROS" style="max-width:100%; max-height:100%; object-fit:contain;" />
-  </div>
-
-  <!-- Hardware -->
-  <div style="width:40px; height:40px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://www.cec.es/wp-content/uploads/2018/07/arduino.jpg" alt="Arduino" style="max-width:100%; max-height:100%; object-fit:contain;" />
-  </div>
-  <div style="width:40px; height:40px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://www.wonderkit.no/wp-content/uploads/2025/04/microbit_v2_front_dbfc5c5e-db9d-48c0-82db-29a905eb0658.jpg" alt="micro:bit" style="max-width:100%; max-height:100%; object-fit:contain;" />
-  </div>
-
-  <!-- Platforms -->
-  <div style="width:40px; height:40px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" style="max-width:100%; max-height:100%; object-fit:contain;" />
-  </div>
-  <div style="width:40px; height:40px; display:flex; align-items:center; justify-content:center;">
-    <img src="https://docs.cyderes.cloud/img/vercel.png" alt="Vercel" style="max-width:100%; max-height:100%; object-fit:contain;" />
-  </div>
-</p>
+<table style="border-collapse: collapse;">
+  <tr>
+    <!-- Languages -->
+    <td style="width:100px; height:100px; text-align:center; vertical-align:middle;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="max-width:100%; max-height:100%; object-fit:contain;" />
+    </td>
+    <td style="width:100px; height:100px; text-align:center; vertical-align:middle;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" style="max-width:100%; max-height:100%; object-fit:contain;" />
+    </td>
+    <td style="width:100px; height:100px; text-align:center; vertical-align:middle;">
+      <img src="https://tknika.eus/wp-content/uploads/2022/10/ros.png" alt="ROS" style="max-width:100%; max-height:100%; object-fit:contain;" />
+    </td>
+  </tr>
+  <tr>
+    <!-- Hardware -->
+    <td style="width:100px; height:100px; text-align:center; vertical-align:middle;">
+      <img src="https://www.cec.es/wp-content/uploads/2018/07/arduino.jpg" alt="Arduino" style="max-width:100%; max-height:100%; object-fit:contain;" />
+    </td>
+    <td style="width:100px; height:100px; text-align:center; vertical-align:middle;">
+      <img src="https://www.wonderkit.no/wp-content/uploads/2025/04/microbit_v2_front_dbfc5c5e-db9d-48c0-82db-29a905eb0658.jpg" alt="micro:bit" style="max-width:100%; max-height:100%; object-fit:contain;" />
+    </td>
+  </tr>
+  <tr>
+    <!-- Platforms -->
+    <td style="width:100px; height:100px; text-align:center; vertical-align:middle;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" style="max-width:100%; max-height:100%; object-fit:contain;" />
+    </td>
+    <td style="width:100px; height:100px; text-align:center; vertical-align:middle;">
+      <img src="https://docs.cyderes.cloud/img/vercel.png" alt="Vercel" style="max-width:100%; max-height:100%; object-fit:contain;" />
+    </td>
+  </tr>
+</table>
 
 
 
