@@ -61,20 +61,9 @@ My name is **Kaleesi**; I am a **6th-grade student and part of the Champ communi
   </tr>
 </table>
 
- 
-
-
 
 ---
 
-### 📊 My Live Stats
-
-<p align="center">
-  <img src="https://vercel.app" alt="k4leesi's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
-
-## 📊 My Live Stats
 
 ## 📊 My Live Stats
 
@@ -87,6 +76,31 @@ My name is **Kaleesi**; I am a **6th-grade student and part of the Champ communi
 ### 3. Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=k4leesi&theme=radical)
 
+
+## 📊 My Live Stats
+
+### 1. k4leesi's GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k4leesi&show_icons=true&theme=radical)
+
+### 2. Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k4leesi&layout=compact&theme=radical)
+
+### 3. Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=k4leesi&theme=radical)
+
+### 4. Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=k4leesi&theme=radical)
+
+
+## 🚀 Tech Stack
+
+![Scratch](https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge&logo=scratch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MicroPython](https://img.shields.io/badge/MicroPython-2E2E2E?style=for-the-badge&logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
 ---
