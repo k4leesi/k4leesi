@@ -24,7 +24,7 @@ My name is **Kaleesi**; I am a **6th-grade student and part of the Champ communi
 <p align="left">
   <!-- Languages -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="25" />
-  <img src="https://es.wikipedia.org/wiki/Archivo:Unofficial_JavaScript_logo_2.svg" width="25" alt="JavaScript" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="25" alt="JavaScript" />
   <img src="https://tknika.eus/wp-content/uploads/2022/10/ros.png" width="25"   alt="ROS" />
  
   <!-- Hardware -->
@@ -32,8 +32,8 @@ My name is **Kaleesi**; I am a **6th-grade student and part of the Champ communi
   <img src="https://www.wonderkit.no/wp-content/uploads/2025/04/microbit_v2_front_dbfc5c5e-db9d-48c0-82db-29a905eb0658.jpg" width="25"  alt="micro:bit" />
   
   <!-- Platforms -->
-  <img src="https://shields.io" width="25"  alt="Linux" />
-  <img src="https://shields.io" width="25"  alt="Vercel" />
+  <img src="https://es.wikipedia.org/wiki/GNU/Linux#/media/Archivo:Tux.svg" width="25"  alt="Linux" />
+  <img src="https://docs.cyderes.cloud/img/vercel.png" width="25"  alt="Vercel" />
 </p>
 
 ---
