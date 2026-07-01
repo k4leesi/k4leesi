@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Kali (k4leesi) 🚀
 
-My name is **Kaleesi**; I am a **6th-grade student and part of the Champ community**, currently building my path in science and technology. I have completed specialized technology programs at the **Universidad Nacional de Ingeniería (UNI)**. My long-term goal is to become an **International Expert in Genetics focusing on brain genes and biocobotics**, leveraging Artificial Intelligence to **revive extinct species and develop collaborative biological robots to conquer other planets**.
+My name is **Kaleesi**; I am a **6th-grade student and part of the Champ community**, currently building my path in science and technology. I have completed specialized technology programs at the **Universidad Nacional de Ingeniería (UNI)**. My long-term goal is to become an **International Expert in Genetics focusing on brain genes and biocobotics**, leveraging Artificial Intelligence to **revive extinct species and develop collaborative biological robots**.
 
 ---
 ### 🧬 My Big Goals & Passions
